@@ -27,5 +27,5 @@
 </a>
 </p>
 
-## Cobrinha comendo o gráfico de minhas contribuições
+## Cobrinha comendo o meu gráfico de contribuições
 ![snake gif](https://github.com/uesleibros/uesleibros/blob/output/github-contribution-grid-snake.gif)
