@@ -7,19 +7,19 @@
 ✨ ● &nbsp;Eu gosto de desenvolver ferramentas que facilite a minha experiência e de outros membros da comunidade.\
 ✍️ ● &nbsp;Em meu tempo livre, eu tento criar programas/desafios para mim mesmo, assim aprendo mais sobre coisas que eu não sabia.\
 
-### 💻 &nbsp;Frameworks/Ferramentas que eu uso
-
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-
-### 🎨 &nbsp;Linguagens de Programação que eu uso
+### 💻 &nbsp;Linguagens de Programação que eu uso
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 
-### 🛠 &nbsp; IDEs que eu uso
+### 🛠 &nbsp;Frameworks/Ferramentas que eu uso
+
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+
+### 🧪 &nbsp;IDEs que eu uso
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Sublime Text](https://img.shields.io/badge/-SublimeText-05122A?style=flat&logo=sublime-text&logoColor=ORANGE)&nbsp;
 ![Atom](https://img.shields.io/badge/-Atom-05122A?style=flat&logo=atom&logoColor=GREEN)&nbsp;
