@@ -3,9 +3,9 @@
 
 ### ❓ &nbsp;Sobre Mim
 
-🎓 ● &nbsp;Atualmente eu estou estudando Python.\
-✨ ● &nbsp;Eu gosto de desenvolver ferramentas que facilite a minha experiência e de outros membros da comunidade.\
-✍️ ● &nbsp;Em meu tempo livre, eu tento criar programas/desafios para mim mesmo, assim aprendo mais sobre coisas que eu não sabia.\
+🎓 ● &nbsp;Atualmente eu estou estudando Python.<br>
+✨ ● &nbsp;Eu gosto de desenvolver ferramentas que facilite a minha experiência e de outros membros da comunidade.<br>
+✍️ ● &nbsp;Em meu tempo livre, eu tento criar programas/desafios para mim mesmo, assim aprendo mais sobre coisas que eu não sabia.<br>
 
 ### 💻 &nbsp;Linguagens de Programação que eu uso
 
