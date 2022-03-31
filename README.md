@@ -28,12 +28,7 @@
 
 ### ⚙️ &nbsp;GitHub Análise
 
-<p align="center">
-<a href="https://github.com/uesleibros">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=uesleibros&show_icons=true&theme=blue-theme&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=uesleibros&layout=compact&langs_count=8&theme=blue-theme"/>
-</a>
-</p>
+![UesleiDev's Github Stats](https://github-readme-stats.vercel.app/api?username=uesleibros&show_icons=true&theme=blue-theme)
 
 ## Cobrinha comendo o meu gráfico de contribuições
 ![snake gif](https://github.com/uesleibros/uesleibros/blob/output/github-contribution-grid-snake.gif)
