@@ -12,6 +12,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby)&nbsp;
 ![Haxe](https://img.shields.io/badge/-Haxe-05122A?style=flat&logo=haxe)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 
