@@ -31,4 +31,5 @@
 ![UesleiDev's Github Stats](https://github-readme-stats.vercel.app/api?username=uesleibros&show_icons=true&theme=blue-theme)
 
 ## Cobrinha comendo o meu gráfico de contribuições
-![snake gif](https://github.com/uesleibros/uesleibros/blob/output/github-contribution-grid-snake.gif)
+![github contribution grid snake animation](https://raw.githubusercontent.com/uesleibros/uesleibros/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/uesleibros/uesleibros/output/github-contribution-grid-snake.svg#gh-light-mode-only)
