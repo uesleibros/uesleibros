@@ -28,7 +28,9 @@
 
 ### ⚙️ &nbsp;GitHub Análise
 
-![UesleiDev's Github Stats](https://github-readme-stats.vercel.app/api?username=uesleibros&show_icons=true&theme=blue-theme)
+![UesleiDev's Github Stats](https://github-readme-stats.vercel.app/api?username=uesleibros&show_icons=true&theme=blue-theme&show_owner=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uesleibros&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Cobrinha comendo o meu gráfico de contribuições
 ![snake gif](https://raw.githubusercontent.com/uesleibros/uesleibros/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
