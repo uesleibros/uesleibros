@@ -17,7 +17,8 @@
 ### 🛠 &nbsp;Frameworks/Ferramentas que eu uso
 
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Svelte](https://img.shields.io/badge/-Svelte-05122A?style=flat&logo=svelte)&nbsp;
+![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)&nbsp;
+![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js)&nbsp;
 
 ### 🧪 &nbsp;IDEs que eu uso
