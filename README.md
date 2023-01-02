@@ -42,3 +42,8 @@
 ## Cobrinha comendo o meu gráfico de contribuições:
 ![snake gif](https://raw.githubusercontent.com/uesleibros/uesleibros/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![snake gif](https://raw.githubusercontent.com/uesleibros/uesleibros/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+### Traduzir Sobre mim
+| Bandeira | Língua |
+|----------|--------|
+|   🇺🇲     | [Inglês](./lang/en.md) |
