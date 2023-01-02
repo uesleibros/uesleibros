@@ -47,4 +47,4 @@
 | Bandeira | Língua |
 |----------|--------|
 |   🇧🇷     | Português |
-|   🇺🇲     | [Inglês](/tree/main/langs/en.md) |
+|   🇺🇲     | [Inglês](../../tree/main/langs/en.md) |
