@@ -46,4 +46,5 @@
 ### Traduzir Sobre mim
 | Bandeira | Língua |
 |----------|--------|
-|   🇺🇲     | [Inglês](./lang/en.md) |
+|   🇧🇷     | Português |
+|   🇺🇲     | [Inglês](../../lang/en.md) |
