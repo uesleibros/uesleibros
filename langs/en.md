@@ -42,6 +42,6 @@
 ### Translate About Me
 |     Flag   | Language |
 |------------|----------|
-|     🇧🇷     | [Portuguese](../../../uesleibros) |
+|     🇧🇷     | [Portuguese](../../../) |
 |     🇺🇲     | English |
 
