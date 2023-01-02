@@ -1,6 +1,6 @@
 <!-- 🇺🇲 -->
 <!-- ## 👋 &nbsp; Hey, I'm glad you were interested in the code -->
-# Hello 👋! My name is Ueslei Paim. Meet my about me.
+# Hello there 👋! My name is Ueslei Paim. Meet my about me.
 
 ## ❓ &nbsp; About Me
 
@@ -29,19 +29,19 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass)&nbsp;
 
-## ⚙️ &nbsp; My GitHub Analysis:
+## ⚙️ &nbsp; My Github analysis:
 
 ![UesleiDev's Github Stats](https://github-readme-stats.vercel.app/api?username=uesleibros&show_icons=true&theme=blue-theme&show_owner=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uesleibros&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## My Contribution Chart:
+## My contribution chart:
 ![snake gif](https://raw.githubusercontent.com/uesleibros/uesleibros/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![snake gif](https://raw.githubusercontent.com/uesleibros/uesleibros/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ### Translate About Me
 |     Flag   | Language |
 |------------|----------|
-|     🇧🇷     | [Portuguese](../../readme.md) |
+|     🇧🇷     | [Portuguese](../../uesleibros) |
 |     🇺🇲     | English |
 
