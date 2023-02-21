@@ -10,23 +10,23 @@
 
 ## 💻 &nbsp; Linguagens de Programação que utilizo:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby)&nbsp;
-![Haxe](https://img.shields.io/badge/-Haxe-05122A?style=flat&logo=haxe)
+![JavaScript](https://img.shields.io/badge/-JavaScript-fbfbf1?style=flat&logo=javascript)&nbsp;
+![Python](https://img.shields.io/badge/-Python-fbfbf1?style=flat&logo=python)&nbsp;
+![Ruby](https://img.shields.io/badge/-Ruby-fbfbf1?style=flat&logo=ruby)&nbsp;
+![Haxe](https://img.shields.io/badge/-Haxe-fbfbf1?style=flat&logo=haxe)
 
 ## 🛠 &nbsp; Frameworks que utilizo:
 
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)&nbsp;
-![Nuxt](https://img.shields.io/badge/-Nuxt.JS-05122A?style=flat&logo=nuxt.js)&nbsp;
-![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js)&nbsp;
-![JQuery](https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=jquery)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-fbfbf?style=flat&logo=flask)&nbsp;
+![Vite](https://img.shields.io/badge/-Vite-fbfbf1?style=flat&logo=vite)&nbsp;
+![Nuxt](https://img.shields.io/badge/-Nuxt.JS-fbfbf1?style=flat&logo=nuxt.js)&nbsp;
+![Vue](https://img.shields.io/badge/-Vue-fbfbf1?style=flat&logo=vue.js)&nbsp;
+![JQuery](https://img.shields.io/badge/-JQuery-fbfbf?style=flat&logo=jquery)&nbsp;
 
 ## 🎨 &nbsp; Frameworks CSS que utilizo:
 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
-![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-fbfbf1?style=flat&logo=bootstrap)&nbsp;
+![SASS](https://img.shields.io/badge/-SASS-fbfbf1?style=flat&logo=sass)&nbsp;
 
 ## ⚙️ &nbsp; Meu Github análise:
 
@@ -35,11 +35,4 @@
 
 
 ## Meu gráfico de contibuições:
-![snake gif](https://raw.githubusercontent.com/uesleibros/uesleibros/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![snake gif](https://raw.githubusercontent.com/uesleibros/uesleibros/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-### Traduzir Sobre mim
-| Bandeira | Língua |
-|----------|--------|
-|   🇧🇷     | Português |
-|   🇺🇲     | [Inglês](../../tree/main/langs/en.md) |
+![snake gif](https://raw.githubusercontent.com/uesleibros/uesleibros/output/github-contribution-grid-snake.svg)
