@@ -31,7 +31,7 @@
 
 ## ⚙️ &nbsp; Github Analysis:
 
-![UesleiDev's Github Stats](https://github-readme-stats.vercel.app/api?username=uesleibros&show_icons=true&theme=blue-theme&show_owner=true)
+![UesleiDev's Github Stats](https://github-readme-stats.vercel.app/api?username=uesleibros&show_icons=true&show_owner=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uesleibros&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
