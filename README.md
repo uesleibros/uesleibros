@@ -3,8 +3,8 @@
 
 ## ❓ &nbsp; About Me
 
-- 🙂 I'm a positive person and happy.\
-- 🎓 I search in some times, learn new technologies.\
+- 🙂 I'm a positive person and happy.
+- 🎓 I search in some times, learn new technologies.
 - ✨ My dream is some day, any my own project becomes popular and useful.
 
 
