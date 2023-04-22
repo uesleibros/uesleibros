@@ -5,9 +5,18 @@
 Hi there! I'm Ueslei Paim, a software engineer based in Brazil. I'm passionate about creating innovative solutions that make people's lives easier, or something like this. I enjoy learning new technologies to expand my skillset. In this About Me, you'll find information about my skills, projects, and contributions. Thanks for stopping by!
 
 ### Friends
-<a href="https://github.com/therealarfu">
-  <img src="https://github.com/therealarfu.png?size=100" alt="Arfur" style="border-radius:50%">
-</a>
+<div style="display: flex; gap: 20px;">
+  <a href="https://github.com/therealarfu">
+    <img src="https://github.com/therealarfu.png" alt="Arfur" style="height: 30px;">
+  </a>
+  <a href="https://github.com/Victor101106">
+    <img src="https://github.com/Victor101106.png" alt="Victor Gabriel" style="height: 30px;">
+  </a>
+  <a href="https://github.com/iDavi">
+    <img src="https://github.com/iDavi.png" alt="Davi" style="height: 30px;">
+  </a>
+</div>
+
 ----
 
 ### Learning
