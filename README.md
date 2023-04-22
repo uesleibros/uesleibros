@@ -15,17 +15,22 @@
 ![Python](https://img.shields.io/badge/-Python-fbfbf1?style=flat&logo=python)&nbsp;
 ![Ruby](https://img.shields.io/badge/-Ruby-fbfbf1?style=flat&logo=ruby)&nbsp;
 
+-----
+
 ### 🛠 &nbsp; Frameworks:
 
 ![Vite](https://img.shields.io/badge/-Vite-fbfbf1?style=flat&logo=vite)&nbsp;
 ![Nuxt](https://img.shields.io/badge/-Nuxt.JS-fbfbf1?style=flat&logo=nuxt.js)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue-fbfbf1?style=flat&logo=vue.js)&nbsp;
 
+-----
+
 ### 🎨 &nbsp; Frameworks for Styles:
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-fbfbf1?style=flat&logo=bootstrap)&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-fbfbf1?style=flat&logo=sass)&nbsp;
 
+----
 ## ⚙️ &nbsp; Github Analysis:
 
 ![UesleiDev's Github Stats](https://github-readme-stats.vercel.app/api?username=uesleibros&show_icons=true&show_owner=true)
