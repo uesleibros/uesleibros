@@ -20,6 +20,9 @@ Hi there! I'm Ueslei Paim, a software engineer based in Brazil. I'm passionate a
 ----
 
 ### Learning
+![C](https://img.shields.io/badge/-C-fbfbf1?style=flat&logo=c)&nbsp;
+![C++](https://img.shields.io/badge/-C++-fc6c81?style=flat&logo=cplusplus)&nbsp;
+
 I'm currently studying C++, as I believe it's an important programming language with a wide range of applications. Is known for its performance, efficiency, and low-level control, which make it suitable for developing software in areas such as game development, systems programming, and embedded systems. Moreover, C++ is widely used in industry and is a valuable skill for software engineers. I'm excited to continue my learning journey with this powerful language!
 
 ## Skills
