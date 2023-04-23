@@ -44,7 +44,7 @@ I'm currently studying C++, as I believe it's an important programming language 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-fbfbf1?style=flat&logo=bootstrap)&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-fbfbf1?style=flat&logo=sass)&nbsp;
 
-## ⚙️ &nbsp; Github Analysis:
+## Github Analysis:
 
 ![UesleiDev's Github Stats](https://github-readme-stats.vercel.app/api?username=uesleibros&show_icons=true&show_owner=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uesleibros&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
