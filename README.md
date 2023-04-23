@@ -26,19 +26,19 @@ Hi there! I'm Ueslei Paim, a software engineer based in Brazil. I'm passionate a
 I'm currently studying C++, as I believe it's an important programming language with a wide range of applications. Is known for its performance, efficiency, and low-level control, which make it suitable for developing software in areas such as game development, systems programming, and embedded systems. Moreover, C++ is widely used in industry and is a valuable skill for software engineers. I'm excited to continue my learning journey with this powerful language!
 
 ## Skills
-### 💻 &nbsp; Programming Languages:
+### Programming Languages:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-fbfbf1?style=flat&logo=javascript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-fbfbf1?style=flat&logo=python)&nbsp;
 ![Ruby](https://img.shields.io/badge/-Ruby-fbfbf1?style=flat&logo=ruby)&nbsp;
 
-### 🛠 &nbsp; Frameworks:
+### Frameworks:
 
 ![Vite](https://img.shields.io/badge/-Vite-fbfbf1?style=flat&logo=vite)&nbsp;
 ![Nuxt](https://img.shields.io/badge/-Nuxt.JS-fbfbf1?style=flat&logo=nuxt.js)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue-fbfbf1?style=flat&logo=vue.js)&nbsp;
 
-### 🎨 &nbsp; Frameworks for Styles:
+### Frameworks for Styles:
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-fbfbf1?style=flat&logo=bootstrap)&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-fbfbf1?style=flat&logo=sass)&nbsp;
