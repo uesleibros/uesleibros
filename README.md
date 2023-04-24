@@ -35,8 +35,10 @@ I'm currently studying C++, as I believe it's an important programming language 
 
 ### Programming Languages:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-purple?style=flat&logo=javascript)&nbsp;
-![Python](https://img.shields.io/badge/-Python-grey?style=flat&logo=python)&nbsp;
+![Fortran](https://img.shields.io/badge/-Fortran-blue?style=flat&logo=fortran)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=flat&logo=javascript)&nbsp;
+![C](https://img.shields.io/badge/-C-fbfbf1?style=flat&logo=c)&nbsp;
+![Python](https://img.shields.io/badge/-Python-fbfbf1?style=flat&logo=python)&nbsp;
 
 <details open>
   <summary>
@@ -46,20 +48,12 @@ I'm currently studying C++, as I believe it's an important programming language 
   - **JavaScript:** Its flexibility and ease of use. With its intuitive syntax and vast collection of libraries and frameworks, I am able to quickly and efficiently develop complex applications with minimal effort. As an experienced user of this language, I am well-versed in its various features and best practices, allowing me to produce high-quality code that is both performant and maintainable.
 
   - **Python:** Its simplicity and readability. With its elegant syntax and large community, is an excellent language for developing a wide range of applications, from scientific computing to web development. As an experienced Python developer, I appreciate its strong support for object-oriented programming, its ability to handle large data sets, and its powerful libraries for data manipulation and analysis.
-  
- </details>
 
-![C](https://img.shields.io/badge/-C-fbfbf1?style=flat&logo=c)&nbsp;
-![Fortran](https://img.shields.io/badge/-Fortran-blue?style=flat&logo=fortran)&nbsp;
+    **Additional tip**
 
-<details open>
-  <summary>
-    <strong>Informations</strong>
-  </summary>
-  
-  - **C:** Its widespread use in systems programming and embedded systems. As an experienced C programmer, I appreciate its low-level control and ability to write code that is both efficient and performant. Additionally, its strong support for pointers and memory management has helped me develop a deeper understanding of computer architecture and memory management. I have gained a better understanding of the importance of efficient code and the inner workings of computer systems.
+      - **C:** Its widespread use in systems programming and embedded systems. As an experienced C programmer, I appreciate its low-level control and ability to write code that is both efficient and performant. Additionally, its strong support for pointers and memory management has helped me develop a deeper understanding of computer architecture and memory management. I have gained a better understanding of the importance of efficient code and the inner workings of computer systems.
 
-  - **Fortran:** I studied Fortran to gain a deeper understanding of programming logic and improve my ability to develop efficient algorithms. Although it is an older language, Fortran is still widely used in scientific and engineering applications, making it an excellent language to learn for those interested in numerical computation. I appreciate its strong emphasis on numerical accuracy and its ability to handle large data sets. Fortran has given me a better understanding of programming logic and has helped me develop more efficient algorithms in other languages as well.
+      - **Fortran:** I studied Fortran to gain a deeper understanding of programming logic and improve my ability to develop efficient algorithms. Although it is an older language, Fortran is still widely used in scientific and engineering applications, making it an excellent language to learn for those interested in numerical computation. I appreciate its strong emphasis on numerical accuracy and its ability to handle large data sets. Fortran has given me a better understanding of programming logic and has helped me develop more efficient algorithms in other languages as well.
   
  </details>
 
