@@ -30,24 +30,17 @@ I'm currently studying C++, as I believe it's an important programming language 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-fbfbf1?style=flat&logo=javascript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-fbfbf1?style=flat&logo=python)&nbsp;
-![Ruby](https://img.shields.io/badge/-Ruby-fbfbf1?style=flat&logo=ruby)&nbsp;
+- **JavaScript:** One of the main reasons why I chose this language for my Github profile is because of its flexibility and ease of use. With its intuitive syntax and vast collection of libraries and frameworks, I am able to quickly and efficiently develop complex applications with minimal effort. As an experienced user of this language, I am well-versed in its various features and best practices, allowing me to produce high-quality code that is both performant and maintainable.
+
+![C](https://img.shields.io/badge/-C-fbfbf1?style=flat&logo=c)&nbsp;
+![C++](https://img.shields.io/badge/-C++-fc6c81?style=flat&logo=cplusplus)&nbsp;
+![Fortran](https://img.shields.io/badge/-Fortran-blue?style=flat&logo=fortran)&nbsp;
+
 
 ### Build/Debbug:
 ![CMake](https://img.shields.io/badge/-CMake-red?style=flat&logo=cmake)
 ![Shell](https://img.shields.io/badge/-Shell-blue?style=flat&logo=shell)
 ![Makefile](https://img.shields.io/badge/-Makefile-green?style=flat)
-
-
-### Frameworks:
-
-![Vite](https://img.shields.io/badge/-Vite-fbfbf1?style=flat&logo=vite)&nbsp;
-![Nuxt](https://img.shields.io/badge/-Nuxt.JS-fbfbf1?style=flat&logo=nuxt.js)&nbsp;
-![Vue](https://img.shields.io/badge/-Vue-fbfbf1?style=flat&logo=vue.js)&nbsp;
-
-### Frameworks for Styles:
-
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-fbfbf1?style=flat&logo=bootstrap)&nbsp;
-![SASS](https://img.shields.io/badge/-SASS-fbfbf1?style=flat&logo=sass)&nbsp;
 
 ## Github Analysis:
 
