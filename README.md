@@ -14,6 +14,9 @@ Hi there! I'm Ueslei Paim, a software engineer based in Brazil. I'm passionate a
   <a href="https://github.com/Victor101106">
     <img src="https://github.com/Victor101106.png" alt="Victor Gabriel" style="height: 30px;">
   </a>
+  <a href="https://github.com/erickss3n">
+    <img src="https://github.com/erickss3n.png" alt="Erickssen" style="height: 30px;">
+  </a>
   <a href="https://github.com/iDavi">
     <img src="https://github.com/iDavi.png" alt="Davi" style="height: 30px;">
   </a>
