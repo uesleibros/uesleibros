@@ -8,16 +8,16 @@ Hi there! I'm Ueslei Paim, a software engineer based in Brazil. I'm passionate a
 ### Friends
 
 <div style="display: flex; gap: 20px;">
-  <a href="https://github.com/therealarfu">
+  <a href="https://github.com/therealarfu" target_"blank" title="Arfur">
     <img src="https://github.com/therealarfu.png" alt="Arfur" style="height: 30px;">
   </a>
-  <a href="https://github.com/Victor101106">
+  <a href="https://github.com/Victor101106" target_"blank" title="Victor Gabriel">
     <img src="https://github.com/Victor101106.png" alt="Victor Gabriel" style="height: 30px;">
   </a>
-  <a href="https://github.com/erickss3n">
+  <a href="https://github.com/erickss3n" target_"blank" title="Erickssen">
     <img src="https://github.com/erickss3n.png" alt="Erickssen" style="height: 30px;">
   </a>
-  <a href="https://github.com/iDavi">
+  <a href="https://github.com/iDavi" target_"blank" title="Davi">
     <img src="https://github.com/iDavi.png" alt="Davi" style="height: 30px;">
   </a>
 </div>
