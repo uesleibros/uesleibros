@@ -52,8 +52,7 @@ I'm currently studying C++, as I believe it's an important programming language 
 
 ## Projects:
 
-### BetterArray
-
+[![BetterArray](https://opengraph.githubassets.com/69660cc685175b0cf5e5392ab6d5d546d4add2f143aded6e2aecbc821301a5ce/uesleibros/BetterArray)](https://github.com/uesleibros/BetterArray)
 
 ## Github Analysis:
 
