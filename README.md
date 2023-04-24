@@ -32,6 +32,12 @@ I'm currently studying C++, as I believe it's an important programming language 
 ![Python](https://img.shields.io/badge/-Python-fbfbf1?style=flat&logo=python)&nbsp;
 ![Ruby](https://img.shields.io/badge/-Ruby-fbfbf1?style=flat&logo=ruby)&nbsp;
 
+## Build/Debbug:
+![CMake](https://img.shields.io/badge/-CMake-red?style=flat&logo=cmake)
+![Shell](https://img.shields.io/badge/-Shell-blue?style=flat&logo=shell)
+![Makefile](https://img.shields.io/badge/-Makefile-green?style=flat)
+
+
 ### Frameworks:
 
 ![Vite](https://img.shields.io/badge/-Vite-fbfbf1?style=flat&logo=vite)&nbsp;
