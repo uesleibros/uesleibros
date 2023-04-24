@@ -7,20 +7,21 @@ Hi there! I'm Ueslei Paim, a software engineer based in Brazil. I'm passionate a
 
 ### Friends
 
-<div style="display: flex; gap: 20px;">
-  <a href="https://github.com/therealarfu" target_"blank" title="Arfur">
-    <img src="https://github.com/therealarfu.png" alt="Arfur" style="height: 30px;">
-  </a>
-  <a href="https://github.com/Victor101106" target_"blank" title="Victor Gabriel">
-    <img src="https://github.com/Victor101106.png" alt="Victor Gabriel" style="height: 30px;">
-  </a>
-  <a href="https://github.com/erickss3n" target_"blank" title="Erickssen">
-    <img src="https://github.com/erickss3n.png" alt="Erickssen" style="height: 30px;">
-  </a>
-  <a href="https://github.com/iDavi" target_"blank" title="Davi">
-    <img src="https://github.com/iDavi.png" alt="Davi" style="height: 30px;">
-  </a>
-</div>
+<a href="https://github.com/therealarfu" title="Arfur">
+  <img src="https://github.com/therealarfu.png" alt="Arfur" style="height: 30px;" />
+</a>
+
+<a href="https://github.com/Victor101106" title="Victor Gabriel">
+  <img src="https://github.com/Victor101106.png" alt="Victor Gabriel" style="height: 30px;" />
+</a>
+
+<a href="https://github.com/erickss3n" title="Erickssen">
+  <img src="https://github.com/erickss3n.png" alt="Erickssen" style="height: 30px;" />
+</a>
+
+<a href="https://github.com/iDavi" title="Davi">
+  <img src="https://github.com/iDavi.png" alt="Davi" style="height: 30px;" />
+</a>
 
 ----
 
@@ -66,6 +67,22 @@ I'm currently studying C++, as I believe it's an important programming language 
 ## Projects:
 
 - [BetterArray](https://github.com/uesleibros/BetterArray)
+
+## E-Books
+
+> All of them are free and very well written.
+
+<a href="https://exploringjs.com/es6" title="Exploring ES6">
+  <img src="https://exploringjs.com/es6/images/cover.jpg" height="300" />
+</a>
+
+<a href="https://ee.hawaii.edu/~tep/EE160/Book/PDF/Book.html" title="Programming in C">
+  <img src="https://freecomputerbooks.com/covers/Programming-in-C.jpg" height="300" />
+</a>
+
+<a href="https://exploringjs.com/es6" title="Exploring ES6">
+  <img src="https://exploringjs.com/es6/images/cover.jpg" height="300" />
+</a>
 
 ## Github Analysis:
 
