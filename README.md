@@ -70,8 +70,6 @@ I'm currently studying C++, as I believe it's an important programming language 
 
 ## E-Books
 
-> All of them are free and very well written.
-
 <a href="https://exploringjs.com/es6" title="Exploring ES6">
   <img src="https://exploringjs.com/es6/images/cover.jpg" height="300" />
 </a>
@@ -80,10 +78,15 @@ I'm currently studying C++, as I believe it's an important programming language 
   <img src="https://freecomputerbooks.com/covers/Programming-in-C.jpg" height="300" />
 </a>
 
-<a href="https://exploringjs.com/es6" title="Exploring ES6">
-  <img src="https://exploringjs.com/es6/images/cover.jpg" height="300" />
+<a href="https://www.manning.com/books/exploring-modern-fortran-basics" title="Exploring Modern Fortran Basics">
+  <img src="https://images.manning.com/360/480/resize/book/5/7591eee-2ade-496b-90cb-6cb335a800a8/Curcic_EMFB_hires.png" height="300" />
 </a>
 
+<a href="https://www.brianheinold.net/python/python_book.html" title="A Practical Introduction to Python Programming">
+  <img src="https://www.dbooks.org/img/books/5614772358.jpg" height="300" />
+</a>
+
+> Interested? Take a look at this [repository](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md) to access a huge library of digital books.
 ## Github Analysis:
 
 ![UesleiDev's Github Stats](https://github-readme-stats.vercel.app/api?username=uesleibros&show_icons=true&show_owner=true)
