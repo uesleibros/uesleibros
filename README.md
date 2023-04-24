@@ -8,19 +8,19 @@ Hi there! I'm Ueslei Paim, a software engineer based in Brazil. I'm passionate a
 ### Friends
 
 <a href="https://github.com/therealarfu" title="Arfur">
-  <img src="https://github.com/therealarfu.png" alt="Arfur" style="height: 30px;" />
+  <img src="https://github.com/therealarfu.png" alt="Arfur" style="height: 50px;" />
 </a>
 
 <a href="https://github.com/Victor101106" title="Victor Gabriel">
-  <img src="https://github.com/Victor101106.png" alt="Victor Gabriel" style="height: 30px;" />
+  <img src="https://github.com/Victor101106.png" alt="Victor Gabriel" style="height: 50px;" />
 </a>
 
 <a href="https://github.com/erickss3n" title="Erickssen">
-  <img src="https://github.com/erickss3n.png" alt="Erickssen" style="height: 30px;" />
+  <img src="https://github.com/erickss3n.png" alt="Erickssen" style="height: 50px;" />
 </a>
 
 <a href="https://github.com/iDavi" title="Davi">
-  <img src="https://github.com/iDavi.png" alt="Davi" style="height: 30px;" />
+  <img src="https://github.com/iDavi.png" alt="Davi" style="height: 50px;" />
 </a>
 
 ----
@@ -71,19 +71,15 @@ I'm currently studying C++, as I believe it's an important programming language 
 ## E-Books
 
 <a href="https://exploringjs.com/es6" title="Exploring ES6">
-  <img src="https://exploringjs.com/es6/images/cover.jpg" height="300" />
+  <img src="https://exploringjs.com/es6/images/cover.jpg" height="250" />
 </a>
 
 <a href="https://ee.hawaii.edu/~tep/EE160/Book/PDF/Book.html" title="Programming in C">
-  <img src="https://freecomputerbooks.com/covers/Programming-in-C.jpg" height="300" />
+  <img src="https://freecomputerbooks.com/covers/Programming-in-C.jpg" height="250" />
 </a>
 
 <a href="https://www.manning.com/books/exploring-modern-fortran-basics" title="Exploring Modern Fortran Basics">
-  <img src="https://images.manning.com/360/480/resize/book/5/7591eee-2ade-496b-90cb-6cb335a800a8/Curcic_EMFB_hires.png" height="300" />
-</a>
-
-<a href="https://www.brianheinold.net/python/python_book.html" title="A Practical Introduction to Python Programming">
-  <img src="https://www.dbooks.org/img/books/5614772358.jpg" height="300" />
+  <img src="https://images.manning.com/360/480/resize/book/5/7591eee-2ade-496b-90cb-6cb335a800a8/Curcic_EMFB_hires.png" height="250" />
 </a>
 
 > Interested? Take a look at this [repository](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md) to access a huge library of digital books.
