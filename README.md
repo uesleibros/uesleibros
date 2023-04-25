@@ -23,6 +23,10 @@ Hi there! I'm Ueslei Paim, a software engineer based in Brazil. I'm passionate a
   <img src="https://github.com/iDavi.png" alt="Davi" style="height: 50px;" />
 </a>
 
+<a href="https://github.com/jainersilvaleite" title="Jainer/Aka MiniCube">
+  <img src="https://github.com/jainersilvaleite.png" alt="Jainer/Aka MiniCube" style='height: 50px;" />
+</a>
+
 ----
 
 ### Learning
