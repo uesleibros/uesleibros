@@ -75,7 +75,7 @@ I'm currently studying C++, as I believe it's an important programming language 
 </a>
 
 <a href="https://ee.hawaii.edu/~tep/EE160/Book/PDF/Book.html" title="Programming in C">
-  <img src="https://freecomputerbooks.com/covers/Programming-in-C.jpg" height="1p0" />
+  <img src="https://freecomputerbooks.com/covers/Programming-in-C.jpg" height="100" />
 </a>
 
 <a href="https://www.manning.com/books/exploring-modern-fortran-basics" title="Exploring Modern Fortran Basics">
