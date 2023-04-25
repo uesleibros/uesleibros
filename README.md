@@ -71,15 +71,15 @@ I'm currently studying C++, as I believe it's an important programming language 
 ## E-Books
 
 <a href="https://exploringjs.com/es6" title="Exploring ES6">
-  <img src="https://exploringjs.com/es6/images/cover.jpg" height="250" />
+  <img src="https://exploringjs.com/es6/images/cover.jpg" height="100" />
 </a>
 
 <a href="https://ee.hawaii.edu/~tep/EE160/Book/PDF/Book.html" title="Programming in C">
-  <img src="https://freecomputerbooks.com/covers/Programming-in-C.jpg" height="250" />
+  <img src="https://freecomputerbooks.com/covers/Programming-in-C.jpg" height="1p0" />
 </a>
 
 <a href="https://www.manning.com/books/exploring-modern-fortran-basics" title="Exploring Modern Fortran Basics">
-  <img src="https://images.manning.com/360/480/resize/book/5/7591eee-2ade-496b-90cb-6cb335a800a8/Curcic_EMFB_hires.png" height="250" />
+  <img src="https://images.manning.com/360/480/resize/book/5/7591eee-2ade-496b-90cb-6cb335a800a8/Curcic_EMFB_hires.png" height="100" />
 </a>
 
 > Interested? Take a look at this [repository](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md) to access a huge library of digital books.
