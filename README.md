@@ -5,14 +5,6 @@
 
 Hi there! I'm Ueslei Paim, a software engineer based in Brazil. I'm passionate about creating innovative solutions that make people's lives easier, or something like this. I enjoy learning new technologies to expand my skillset. In this About Me, you'll find information about my skills, projects, and contributions. Thanks for stopping by!
 
-## Areas I'm good at
-
-- Reverse engineering.
-- Prompt engineering.
-- Web applications.
-- Security
-- API workers
-
 ### Friends
 
 <a href="https://github.com/therealarfu" title="Arfur">
