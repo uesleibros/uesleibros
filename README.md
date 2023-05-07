@@ -78,12 +78,6 @@ I'm currently studying C++, as I believe it's an important programming language 
 ![Shell](https://img.shields.io/badge/-Shell-blue?style=flat&logo=shell)
 ![Makefile](https://img.shields.io/badge/-Makefile-green?style=flat)
 
-## Projects:
-
-- [BetterArray](https://github.com/uesleibros/BetterArray)
-
-- [OpenGPT](https://github.com/uesleibros/OpenGPT)
-
 ## Github Analysis:
 
 ![UesleiDev's Github Stats](https://github-readme-stats.vercel.app/api?username=uesleibros&show_icons=true&show_owner=true)
