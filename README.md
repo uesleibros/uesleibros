@@ -5,32 +5,6 @@
 
 Hi there! I'm Ueslei Paim, a software engineer based in Brazil. I'm passionate about creating innovative solutions that make people's lives easier, or something like this. I enjoy learning new technologies to expand my skillset. In this About Me, you'll find information about my skills, projects, and contributions. Thanks for stopping by!
 
-### Friends
-
-<a href="https://github.com/therealarfu" title="Arfur">
-  <img src="https://github.com/therealarfu.png" alt="Arfur" style="height: 50px;" />
-</a>
-
-<a href="https://github.com/Victor101106" title="Victor Gabriel">
-  <img src="https://github.com/Victor101106.png" alt="Victor Gabriel" style="height: 50px;" />
-</a>
-
-<a href="https://github.com/erickss3n" title="Erickssen">
-  <img src="https://github.com/erickss3n.png" alt="Erickssen" style="height: 50px;" />
-</a>
-
-<a href="https://github.com/PPTGames" title="Daniel/Aka PPTGames">
-  <img src="https://github.com/PPTGames.png" alt="Daniel/Aka PPTGames" style="height: 50px;" />
-</a>
-
-<a href="https://github.com/iDavi" title="Davi">
-  <img src="https://github.com/iDavi.png" alt="Davi" style="height: 50px;" />
-</a>
-
-<a href="https://github.com/jainersilvaleite" title="Jainer/Aka MiniCube">
-  <img src="https://github.com/jainersilvaleite.png" alt="Jainer/Aka MiniCube" style='height: 50px;" />
-</a>
-
 ----
 
 ### Learning
