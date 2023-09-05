@@ -9,16 +9,27 @@ Hi there! I'm Ueslei Paim, a software engineer based in Brazil. I'm passionate a
 
 ### Programming Languages:
 
-![Portugol](https://img.shields.io/badge/-Portugol-blue?style=flat&logo=elixir)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=flat&logo=javascript)&nbsp;
-![C](https://img.shields.io/badge/-C-fbfbf1?style=flat&logo=c)&nbsp;
-![Python](https://img.shields.io/badge/-Python-fbfbf1?style=flat&logo=python)&nbsp;
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,kotlin,nodejs,python,java,bash,sublime&perline=3&theme=light" />
+  </a>
+</p>
 
-### Build/Debbug:
+### Databases/Cloud
 
-![CMake](https://img.shields.io/badge/-CMake-red?style=flat&logo=cmake)
-![Shell](https://img.shields.io/badge/-Shell-blue?style=flat&logo=shell)
-![Makefile](https://img.shields.io/badge/-Makefile-green?style=flat)
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=supabase,firebase,replit,discord&perline=4&theme=light" />
+  </a>
+</p>
+
+### Libraries/Frameworks
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,express,flask&perline=3&theme=light" />
+  </a>
+</p>
 
 ## Github Analysis:
 
