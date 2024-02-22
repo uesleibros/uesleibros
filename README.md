@@ -27,7 +27,7 @@ Hi there! I'm Ueslei Paim, a software engineer based in Brazil. I'm passionate a
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,express,flask,tailwindcss,bootstrap,jquery&perline=3&theme=light" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,express,flask,tailwindcss,jquery&perline=3&theme=light" />
   </a>
 </p>
 
