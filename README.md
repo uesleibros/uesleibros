@@ -11,7 +11,7 @@ Hi there! I'm Ueslei Paim, a software engineer based in Brazil. I'm passionate a
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,javascript,python,bash&perline=3&theme=light" />
+    <img src="https://skillicons.dev/icons?i=c,javascript,python,bash,haxe&perline=3&theme=light" />
   </a>
 </p>
 
@@ -19,7 +19,7 @@ Hi there! I'm Ueslei Paim, a software engineer based in Brazil. I'm passionate a
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=supabase,postgresql,firebase,mysql&perline=3&theme=light" />
+    <img src="https://skillicons.dev/icons?i=supabase,firebase,mysql&perline=3&theme=light" />
   </a>
 </p>
 
@@ -27,15 +27,7 @@ Hi there! I'm Ueslei Paim, a software engineer based in Brazil. I'm passionate a
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,express,flask,tailwindcss,jquery&perline=3&theme=light" />
-  </a>
-</p>
-
-### Deployment
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vercel,github&perline=3&theme=light" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,express,flask,tailwindcss&perline=3&theme=light" />
   </a>
 </p>
 
