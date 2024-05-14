@@ -22,7 +22,7 @@ I am currently affiliated with [Bedrock Frontiers's Org](https://github.com/Bedr
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=supabase,firebase,mysql&perline=3&theme=light" />
+    <img src="https://skillicons.dev/icons?i=mongodb,supabase,firebase,googlecloud&perline=3&theme=light" />
   </a>
 </p>
 
@@ -32,7 +32,7 @@ I am currently affiliated with [Bedrock Frontiers's Org](https://github.com/Bedr
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,notion,obsidian&perline=3&theme=light" />
+    <img src="https://skillicons.dev/icons?i=git,postman,github,githubactions,notion,obsidian,cloudflare,cmake&perline=3&theme=light" />
   </a>
 </p>
 
