@@ -11,12 +11,12 @@ I am currently affiliated with [Bedrock Frontiers's Org](https://github.com/Bedr
 ### Programming Languages:
 
 [![Programming Languages-Light](https://skillicons.dev/icons?i=c,javascript,python,bash,haxe&perline=3&theme=light#gh-light-mode-only)](https://skillicons.dev/icons#gh-light-mode-only)
-[![Programming Languages-Dark](https://skillicons.dev/icons?i=c,javascript,python,bash,haxe&perline=3&theme=light#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
+[![Programming Languages-Dark](https://skillicons.dev/icons?i=c,javascript,python,bash,haxe&perline=3&theme=dark#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
 
 ### Databases/Cloud
 
 [![Databases/Cloud-Light](https://skillicons.dev/icons?i=mongodb,supabase,firebase,googlecloud&perline=3&theme=light#gh-light-mode-only)](https://skillicons.dev/icons#gh-light-mode-only)
-[![Databases/Cloud-Dark](https://skillicons.dev/icons?i=mongodb,supabase,firebase,googlecloud&perline=3&theme=light#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
+[![Databases/Cloud-Dark](https://skillicons.dev/icons?i=mongodb,supabase,firebase,googlecloud&perline=3&theme=dark#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
 
 ### Tools
 
