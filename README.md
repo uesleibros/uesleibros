@@ -38,5 +38,7 @@ I am currently affiliated with [Bedrock Frontiers's Org](https://github.com/Bedr
 
 ---
 
-![UesleiDev's Github Stats](https://github-readme-stats.vercel.app/api?username=uesleibros&show_icons=true&show_owner=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uesleibros&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![UesleiDev's Github Stats-Dark](https://github-readme-stats.vercel.app/api?username=uesleibros&show_icons=true&show_owner=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![UesleiDev's Github Stats-Light](https://github-readme-stats.vercel.app/api?username=uesleibros&show_icons=true&show_owner=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=uesleibros&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=uesleibros&layout=compact&theme=default#gh-dark-white-only)](https://github.com/anuraghazra/github-readme-stats#gh-white-mode-only)
