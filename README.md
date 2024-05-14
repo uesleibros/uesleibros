@@ -1,9 +1,12 @@
 <!-- Thanks for reading! -->
-# Introduction 👋!
 
 ## About me
 
-Hi there! I'm Ueslei Paim, a software engineer based in Brazil. I'm passionate about creating innovative solutions that make people's lives easier, or something like this. I enjoy learning new technologies to expand my skillset. In this About Me, you'll find information about my skills, projects, and contributions. Thanks for stopping by!
+Greetings! I'm Ueslei Paim, a seasoned developer hailing from Brazil. With a keen eye for innovation, I specialize in architecting robust solutions that streamline daily tasks and enhance user experiences. My insatiable curiosity propels me to continually delve into cutting-edge technologies, ensuring I remain at the forefront of the industry. Explore further to uncover insights into my extensive skill set, notable projects, and impactful contributions. Thank you for taking the time to explore!
+
+## My Organization
+
+I am currently affiliated with [Bedrock Frontiers's Org](https://github.com/BedrockFrontiers), a pioneering tech firm dedicated to revolutionizing how businesses operate in the digital landscape. To learn more about our endeavors, feel free to visit our page.
 
 ## Skills
 
@@ -23,7 +26,7 @@ Hi there! I'm Ueslei Paim, a software engineer based in Brazil. I'm passionate a
   </a>
 </p>
 
-### Libraries/Frameworks
+### Tools
 
 <p>
   <a href="https://skillicons.dev">
@@ -31,12 +34,7 @@ Hi there! I'm Ueslei Paim, a software engineer based in Brazil. I'm passionate a
   </a>
 </p>
 
-## Github Analysis:
+---
 
 ![UesleiDev's Github Stats](https://github-readme-stats.vercel.app/api?username=uesleibros&show_icons=true&show_owner=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uesleibros&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-## Contribution Graphic:
-
-![snake gif](https://raw.githubusercontent.com/uesleibros/uesleibros/output/github-contribution-grid-snake.svg)
