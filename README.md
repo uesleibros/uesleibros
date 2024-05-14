@@ -28,9 +28,11 @@ I am currently affiliated with [Bedrock Frontiers's Org](https://github.com/Bedr
 
 ### Tools
 
+#### Collaboration
+
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,express,flask,tailwindcss&perline=3&theme=light" />
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,notion,obsidian&perline=3&theme=light" />
   </a>
 </p>
 
