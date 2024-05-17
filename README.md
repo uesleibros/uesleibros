@@ -10,25 +10,25 @@ I am currently affiliated with [Bedrock Frontiers's Org](https://github.com/Bedr
 
 ### Programming Languages:
 
-[![Programming Languages-Light](https://skillicons.dev/icons?i=c,wasm,javascript,python,haxe,bash&perline=4&theme=light#gh-light-mode-only)](https://skillicons.dev/icons#gh-light-mode-only)
-[![Programming Languages-Dark](https://skillicons.dev/icons?i=c,wasm,javascript,python,haxe,bash&perline=4&theme=dark#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
+[![Programming Languages-Light](https://skillicons.dev/icons?i=c,javascript,python,haxe,php,bash&perline=4&theme=light#gh-light-mode-only)](https://skillicons.dev/icons#gh-light-mode-only)
+[![Programming Languages-Dark](https://skillicons.dev/icons?i=c,javascript,python,haxe,php,bash&perline=4&theme=dark#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
 
 ### Databases/Cloud
 
-[![Databases/Cloud-Light](https://skillicons.dev/icons?i=mongodb,supabase,firebase,googlecloud&perline=4&theme=light#gh-light-mode-only)](https://skillicons.dev/icons#gh-light-mode-only)
-[![Databases/Cloud-Dark](https://skillicons.dev/icons?i=mongodb,supabase,firebase,googlecloud&perline=4&theme=dark#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
+[![Databases/Cloud-Light](https://skillicons.dev/icons?i=mongodb,sqlite,supabase,firebase,googlecloud,mysql&perline=4&theme=light#gh-light-mode-only)](https://skillicons.dev/icons#gh-light-mode-only)
+[![Databases/Cloud-Dark](https://skillicons.dev/icons?i=mongodb,sqlite,supabase,firebase,googlecloud,mysql&perline=4&theme=dark#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
 
 ### Tools
 
 #### Collaboration
 
-[![Tools Collaboration-Light](https://skillicons.dev/icons?i=git,postman,github,githubactions,notion,obsidian,cloudflare&perline=4&theme=light#gh-light-mode-only)](https://skillicons.dev/icons#gh-light-mode-only)
-[![Tools Collaboration-Dark](https://skillicons.dev/icons?i=git,postman,github,githubactions,notion,obsidian,cloudflare&perline=4&theme=dark#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
+[![Tools Collaboration-Light](https://skillicons.dev/icons?i=git,github,notion,obsidian&perline=4&theme=light#gh-light-mode-only)](https://skillicons.dev/icons#gh-light-mode-only)
+[![Tools Collaboration-Dark](https://skillicons.dev/icons?i=git,github,notion,obsidian&perline=4&theme=dark#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
 
 #### Development
 
-[![Tools for Development-Light](https://skillicons.dev/icons?i=docker,sublime,powershell,vercel&perline=4&theme=light#gh-light-mode-only)](https://skillicons.dev/icons#gh-light-mode-only)
-[![Tools for Development-Dark](https://skillicons.dev/icons?i=docker,sublime,powershell,vercel&perline=4&theme=dark#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
+[![Tools for Development-Light](https://skillicons.dev/icons?i=docker,powershell,cloudflare,vercel&perline=4&theme=light#gh-light-mode-only)](https://skillicons.dev/icons#gh-light-mode-only)
+[![Tools for Development-Dark](https://skillicons.dev/icons?i=docker,powershell,vercel,cloudflare&perline=4&theme=dark#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
 
 ---
 
