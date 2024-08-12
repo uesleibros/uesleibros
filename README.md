@@ -30,7 +30,7 @@ I am currently affiliated with [Bedrock Frontiers's Org](https://github.com/Bedr
 [![Tools for Development-Light](https://skillicons.dev/icons?i=docker,powershell,cloudflare,vercel&perline=4&theme=light#gh-light-mode-only)](https://skillicons.dev/icons#gh-light-mode-only)
 [![Tools for Development-Dark](https://skillicons.dev/icons?i=docker,powershell,vercel,cloudflare&perline=4&theme=dark#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
 
-#### Editor
+#### Editors
 
 [![Editor-Light](https://skillicons.dev/icons?i=sublime,pycharm,visualstudio,neovim&perline=4&theme=light#gh-light-mode-only)](https://skillicons.dev/icons#gh-light-mode-only)
 [![Editor-Dark](https://skillicons.dev/icons?i=sublime,pycharm,visualstudio,neovim&perline=4&theme=dark#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
@@ -39,3 +39,5 @@ I am currently affiliated with [Bedrock Frontiers's Org](https://github.com/Bedr
 
 [![UesleiDev's Github Stats-Light](https://github-readme-stats.vercel.app/api?username=uesleibros&card_width=400&rank_icon=percentile&show_icons=true&hide_title=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) [![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=uesleibros&card_width=400&layout=compact&theme=light#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [![UesleiDev's Github Stats-Dark](https://github-readme-stats.vercel.app/api?username=uesleibros&card_width=400&rank_icon=percentile&show_icons=true&hide_title=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) [![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=uesleibros&card_width=400&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+- Hello from Brazil 💪
