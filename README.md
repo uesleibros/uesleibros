@@ -1,6 +1,6 @@
 ## About me
 
-Greetings! I'm Ueslei Paim, a seasoned developer hailing from Brazil. With a keen eye for innovation, I specialize in architecting robust solutions that streamline daily tasks and enhance user experiences. My insatiable curiosity propels me to continually delve into cutting-edge technologies, ensuring I remain at the forefront of the industry. Explore further to uncover insights into my extensive skill set, notable projects, and impactful contributions. Thank you for taking the time to explore!
+Greetings! I'm Ueslei Paim (AKA UesleiDev), a seasoned developer hailing from Brazil. With a keen eye for innovation, I specialize in architecting robust solutions that streamline daily tasks and enhance user experiences. My insatiable curiosity propels me to continually delve into cutting-edge technologies, ensuring I remain at the forefront of the industry. Explore further to uncover insights into my extensive skill set, notable projects, and impactful contributions. Thank you for taking the time to explore!
 
 ## My Organization
 
