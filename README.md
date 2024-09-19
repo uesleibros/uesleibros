@@ -15,8 +15,8 @@ I am currently affiliated with [Bedrock Frontiers's Org](https://github.com/Bedr
 
 ### Databases and Cloud Services
 
-[![Databases/Cloud-Light](https://skillicons.dev/icons?i=mongodb,prisma,supabase,firebase,googlecloud,mysql&perline=4&theme=light#gh-light-mode-only)](https://skillicons.dev/icons#gh-light-mode-only)
-[![Databases/Cloud-Dark](https://skillicons.dev/icons?i=mongodb,prisma,supabase,firebase,googlecloud,mysql&perline=4&theme=dark#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
+[![Databases/Cloud-Light](https://skillicons.dev/icons?i=mongodb,prisma,supabase,firebase,googlecloud,mysql,postgresql&perline=4&theme=light#gh-light-mode-only)](https://skillicons.dev/icons#gh-light-mode-only)
+[![Databases/Cloud-Dark](https://skillicons.dev/icons?i=mongodb,prisma,supabase,firebase,googlecloud,mysql,postgresql&perline=4&theme=dark#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
 
 ### Tools
 
