@@ -10,25 +10,25 @@ I am currently affiliated with [Bedrock Frontiers's Org](https://github.com/Bedr
 
 ### Programming Languages
 
-[![Programming Languages-Light](https://skillicons.dev/icons?i=c,javascript,typescript,python,haxe,bash&perline=4&theme=light#gh-light-mode-only)](https://skillicons.dev/icons#gh-light-mode-only)
-[![Programming Languages-Dark](https://skillicons.dev/icons?i=c,javascript,typescript,python,haxe,bash&perline=4&theme=dark#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
+[![Programming Languages-Light](https://skillicons.dev/icons?i=c,javascript,typescript,nim,python,haxe,bash&perline=4&theme=light#gh-light-mode-only)](https://skillicons.dev/icons#gh-light-mode-only)
+[![Programming Languages-Dark](https://skillicons.dev/icons?i=c,javascript,typescript,nim,python,haxe,bash&perline=4&theme=dark#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
 
-### Databases and Cloud Services
+### Databases, Cloud Services and ORMs
 
-[![Databases/Cloud-Light](https://skillicons.dev/icons?i=mongodb,prisma,supabase,firebase,googlecloud,mysql,postgresql&perline=4&theme=light#gh-light-mode-only)](https://skillicons.dev/icons#gh-light-mode-only)
-[![Databases/Cloud-Dark](https://skillicons.dev/icons?i=mongodb,prisma,supabase,firebase,googlecloud,mysql,postgresql&perline=4&theme=dark#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
+[![Databases/Cloud-Light](https://skillicons.dev/icons?i=mongodb,prisma,sqlite,supabase,firebase,googlecloud,mysql,postgresql&perline=4&theme=light#gh-light-mode-only)](https://skillicons.dev/icons#gh-light-mode-only)
+[![Databases/Cloud-Dark](https://skillicons.dev/icons?i=mongodb,prisma,sqlite,supabase,firebase,googlecloud,mysql,postgresql&perline=4&theme=dark#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
 
 ### Tools
 
 #### Collaboration
 
-[![Tools Collaboration-Light](https://skillicons.dev/icons?i=git,github,notion,obsidian,figma&perline=4&theme=light#gh-light-mode-only)](https://skillicons.dev/icons#gh-light-mode-only)
-[![Tools Collaboration-Dark](https://skillicons.dev/icons?i=git,github,notion,obsidian,figma&perline=4&theme=dark#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
+[![Tools Collaboration-Light](https://skillicons.dev/icons?i=git,github,notion,figma&perline=4&theme=light#gh-light-mode-only)](https://skillicons.dev/icons#gh-light-mode-only)
+[![Tools Collaboration-Dark](https://skillicons.dev/icons?i=git,github,notion,figma&perline=4&theme=dark#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
 
-#### Production
+#### Production/
 
 [![Tools for Development-Light](https://skillicons.dev/icons?i=docker,powershell,cloudflare,vercel&perline=4&theme=light#gh-light-mode-only)](https://skillicons.dev/icons#gh-light-mode-only)
-[![Tools for Development-Dark](https://skillicons.dev/icons?i=docker,powershell,vercel,cloudflare&perline=4&theme=dark#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
+[![Tools for Development-Dark](https://skillicons.dev/icons?i=docker,powershell,cloudflare,vercel&perline=4&theme=dark#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
 
 #### Editors
 
