@@ -21,7 +21,7 @@ Greetings! I'm Ueslei Paim (AKA UesleiDev), a seasoned developer hailing from Br
 [![Tools Collaboration-Light](https://skillicons.dev/icons?i=git,github,notion,figma&perline=4&theme=light#gh-light-mode-only)](https://skillicons.dev/icons#gh-light-mode-only)
 [![Tools Collaboration-Dark](https://skillicons.dev/icons?i=git,github,notion,figma&perline=4&theme=dark#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
 
-#### Production/
+#### Production
 
 [![Tools for Development-Light](https://skillicons.dev/icons?i=docker,powershell,cloudflare,vercel&perline=4&theme=light#gh-light-mode-only)](https://skillicons.dev/icons#gh-light-mode-only)
 [![Tools for Development-Dark](https://skillicons.dev/icons?i=docker,powershell,cloudflare,vercel&perline=4&theme=dark#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
