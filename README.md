@@ -6,8 +6,8 @@ Greetings! I'm Ueslei Paim (AKA UesleiDev), a seasoned developer hailing from Br
 
 ### Programming Languages
 
-[![Programming Languages-Light](https://skillicons.dev/icons?i=c,javascript,typescript,webassembly,php,nim,python,bash&perline=4&theme=light#gh-light-mode-only)](https://skillicons.dev/icons#gh-light-mode-only)
-[![Programming Languages-Dark](https://skillicons.dev/icons?i=c,javascript,typescript,webassembly,php,nim,python,bash&perline=4&theme=dark#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
+[![Programming Languages-Light](https://skillicons.dev/icons?i=c,javascript,typescript,kotlin,php,lua,python,bash&perline=4&theme=light#gh-light-mode-only)](https://skillicons.dev/icons#gh-light-mode-only)
+[![Programming Languages-Dark](https://skillicons.dev/icons?i=c,javascript,typescript,kotlin,php,lua,python,bash&perline=4&theme=dark#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
 
 ### Databases, Cloud Services and ORMs
 
@@ -23,8 +23,8 @@ Greetings! I'm Ueslei Paim (AKA UesleiDev), a seasoned developer hailing from Br
 
 #### In-Production
 
-[![Tools for Development-Light](https://skillicons.dev/icons?i=docker,nginx,graphql&perline=4&theme=light#gh-light-mode-only)](https://skillicons.dev/icons#gh-light-mode-only)
-[![Tools for Development-Dark](https://skillicons.dev/icons?i=docker,nginx,graphql&perline=4&theme=dark#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
+[![Tools for Development-Light](https://skillicons.dev/icons?i=docker,nginx,graphql,cmake&perline=4&theme=light#gh-light-mode-only)](https://skillicons.dev/icons#gh-light-mode-only)
+[![Tools for Development-Dark](https://skillicons.dev/icons?i=docker,nginx,graphql,cmake&perline=4&theme=dark#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
 
 #### Libraries/Frameworks
 
