@@ -6,8 +6,13 @@ Greetings! I'm Ueslei Paim (AKA UesleiDev), a seasoned developer hailing from Br
 
 ### Programming Languages
 
-[![Programming Languages-Light](https://skillicons.dev/icons?i=c,javascript,typescript,kotlin,php,lua,python,bash&perline=4&theme=light#gh-light-mode-only)](https://skillicons.dev/icons#gh-light-mode-only)
-[![Programming Languages-Dark](https://skillicons.dev/icons?i=c,javascript,typescript,kotlin,php,lua,python,bash&perline=4&theme=dark#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
+[![Programming Languages-Light](https://skillicons.dev/icons?i=c,javascript,typescript,kotlin,java,php,lua,python,bash&perline=4&theme=light#gh-light-mode-only)](https://skillicons.dev/icons#gh-light-mode-only)
+[![Programming Languages-Dark](https://skillicons.dev/icons?i=c,javascript,typescript,kotlin,java,php,lua,python,bash&perline=4&theme=dark#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
+
+### Markup Languages
+
+[![Extra Languages-Light](https://skillicons.dev/icons?i=html,css,md,latex&perline=4&theme=light#gh-light-mode-only)](https://skillicons.dev/icons#gh-light-mode-only)
+[![Extra Languages-Dark](https://skillicons.dev/icons?i=html,css,md,latex&perline=4&theme=dark#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
 
 ### Databases, Cloud Services and ORMs
 
@@ -18,8 +23,8 @@ Greetings! I'm Ueslei Paim (AKA UesleiDev), a seasoned developer hailing from Br
 
 #### Collaboration
 
-[![Tools Collaboration-Light](https://skillicons.dev/icons?i=git,github,notion,figma&perline=4&theme=light#gh-light-mode-only)](https://skillicons.dev/icons#gh-light-mode-only)
-[![Tools Collaboration-Dark](https://skillicons.dev/icons?i=git,github,notion,figma&perline=4&theme=dark#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
+[![Tools Collaboration-Light](https://skillicons.dev/icons?i=git,github,obsidian,notion,figma&perline=4&theme=light#gh-light-mode-only)](https://skillicons.dev/icons#gh-light-mode-only)
+[![Tools Collaboration-Dark](https://skillicons.dev/icons?i=git,github,obsidian,notion,figma&perline=4&theme=dark#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
 
 #### In-Production
 
@@ -28,10 +33,9 @@ Greetings! I'm Ueslei Paim (AKA UesleiDev), a seasoned developer hailing from Br
 
 #### Libraries/Frameworks
 
-[![Libraries and Frameworks-Light](https://skillicons.dev/icons?i=react,vue,nuxtjs,nextjs,webpack,tailwind,solidjs,threejs,jest&perline=4&theme=light#gh-light-mode-only)](https://skillicons.dev/icons#gh-light-mode-only)
+[![Libraries and Frameworks-Light](https://skillicons.dev/icons?i=svelte,jest,react,vue,vite,nuxtjs,nextjs,webpack,tailwind,solidjs,threejs&perline=4&theme=light#gh-light-mode-only)](https://skillicons.dev/icons#gh-light-mode-only)
 
-[![Libraries and Frameworks-Dark](https://skillicons.dev/icons?i=react,vue,nuxtjs,nextjs,webpack,tailwind,solidjs,threejs,jest&perline=4&theme=dark#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
-
+[![Libraries and Frameworks-Dark](https://skillicons.dev/icons?i=svelte,jest,react,vue,vite,nuxtjs,nextjs,webpack,tailwind,solidjs,threejs&perline=4&theme=dark#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
 
 ---
 
