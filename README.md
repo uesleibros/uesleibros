@@ -9,10 +9,10 @@ Greetings! I'm Ueslei Paim (AKA UesleiDev), a seasoned developer hailing from Br
 [![Programming Languages-Light](https://skillicons.dev/icons?i=c,javascript,typescript,kotlin,java,php,lua,python,bash&perline=4&theme=light#gh-light-mode-only)](https://skillicons.dev/icons#gh-light-mode-only)
 [![Programming Languages-Dark](https://skillicons.dev/icons?i=c,javascript,typescript,kotlin,java,php,lua,python,bash&perline=4&theme=dark#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
 
-### Markup Languages
+### Markup/Other Languages
 
-[![Extra Languages-Light](https://skillicons.dev/icons?i=html,css,md,latex&perline=4&theme=light#gh-light-mode-only)](https://skillicons.dev/icons#gh-light-mode-only)
-[![Extra Languages-Dark](https://skillicons.dev/icons?i=html,css,md,latex&perline=4&theme=dark#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
+[![Extra Languages-Light](https://skillicons.dev/icons?i=html,css,sass,md,latex&perline=4&theme=light#gh-light-mode-only)](https://skillicons.dev/icons#gh-light-mode-only)
+[![Extra Languages-Dark](https://skillicons.dev/icons?i=html,css,sass,md,latex&perline=4&theme=dark#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
 
 ### Databases, Cloud Services and ORMs
 
