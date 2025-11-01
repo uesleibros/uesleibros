@@ -39,5 +39,5 @@ Greetings! I'm Ueslei Paim (AKA UesleiDev), a seasoned developer hailing from Br
 
 ---
 
-[![UesleiDev's Github Stats-Light](https://github-readme-stats.vercel.app/api?username=uesleibros&card_width=400&show_icons=true&hide_title=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) [![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=uesleibros&card_width=400&layout=compact&theme=light#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![UesleiDev's Github Stats-Dark](https://github-readme-stats.vercel.app/api?username=uesleibros&card_width=400&show_icons=true&hide_title=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) [![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=uesleibros&card_width=400&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![UesleiDev's Github Stats-Light](https://github-readme-stats.vercel.app/api?username=uesleibros&card_width=1300&show_icons=true&hide_title=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![UesleiDev's Github Stats-Dark](https://github-readme-stats.vercel.app/api?username=uesleibros&card_width=1300&show_icons=true&hide_title=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
