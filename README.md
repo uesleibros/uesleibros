@@ -1,6 +1,28 @@
+<div align="center">
+  
+# Hi there, I'm Ueslei Paim
+
+### Software Engineer | Computer Science Student | Full-Stack Developer
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ueslei-paim-190b09287)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uesleibros@gmail.com)
+
+</div>
+
 ## About me
 
-Greetings! I'm Ueslei Paim (AKA UesleiDev), a seasoned developer hailing from Brazil. With a keen eye for innovation, I specialize in architecting robust solutions that streamline daily tasks and enhance user experiences. My insatiable curiosity propels me to continually delve into cutting-edge technologies, ensuring I remain at the forefront of the industry. Explore further to uncover insights into my extensive skill set, notable projects, and impactful contributions. Thank you for taking the time to explore!
+Greetings! I'm **Ueslei Paim** (aka **UesleiDev**), a passionate software engineer and Computer Science student based in Brazil 🇧🇷.
+
+I specialize in **architecting scalable solutions** and **building robust applications** that solve real-world problems. My expertise spans across **full-stack development**, **system design**, and **automation engineering**. 
+
+With an insatiable curiosity for emerging technologies, I'm constantly exploring new frameworks, design patterns, and best practices to deliver high-quality, maintainable code. I believe in writing **clean code**, following **SOLID principles**, and leveraging **modern development practices**.
+
+### Current Focus
+- Pursuing Bachelor's degree in **Computer Science**
+- Building innovative solutions for daily challenges
+- Deep diving into **software architecture** and **design patterns**
+- Exploring **cloud technologies** and **microservices architecture**
+- Contributing to open-source projects
 
 ## Skills
 
