@@ -24,6 +24,106 @@ With an insatiable curiosity for emerging technologies, I'm constantly exploring
 - Exploring **cloud technologies** and **microservices architecture**
 - Contributing to open-source projects
 
+### Read me like a code
+
+```py
+from __future__ import annotations
+from typing import Final, Protocol, runtime_checkable
+from dataclasses import dataclass, field
+from datetime import datetime
+from enum import IntFlag, auto
+import threading
+
+@runtime_checkable
+class IDeveloper(Protocol):
+    """Developer interface."""
+    name: str
+    location: str
+    def code(self) -> None: ...
+
+class Mindset(IntFlag):
+    """Developer mindset."""
+    CURIOUS = auto()
+    PERSISTENT = auto()
+    CREATIVE = auto()
+    ANALYTICAL = auto()
+    
+    @classmethod
+    def default(cls) -> Mindset:
+        return cls.CURIOUS | cls.PERSISTENT | cls.CREATIVE | cls.ANALYTICAL
+
+@dataclass(slots=True)
+class UesleiPaim:
+    """
+    The Developer Himself.
+    """
+    # Immutable attributes
+    name: Final[str] = field(default="Ueslei Paim")
+    alias: Final[str] = field(default="UesleiDev")
+    location: Final[str] = field(default="Brazil 🇧🇷")
+    education: str = field(default="Computer Science Student")
+    
+    # Private attributes
+    _birth_year: int = field(default=2007, init=False, repr=False)
+    _started_coding: int = field(default=2017, init=False, repr=False)
+    _mindset: Mindset = field(default_factory=Mindset.default, init=False)
+    _lock: threading.Lock = field(default_factory=threading.Lock, init=False, repr=False)
+    
+    @property
+    def age(self) -> int:
+        """His age."""
+        return datetime.now().year - self._birth_year
+    
+    @property
+    def experience(self) -> int:
+        """Years of coding experience."""
+        return datetime.now().year - self._started_coding
+    
+    @property
+    def currently_learning(self) -> tuple[str, ...]:
+        """Current focus areas."""
+        return (
+            "Algorithms & Data Structures",
+            "System Design & Architecture",
+            "Low-level Optimization",
+            "Cloud Computing",
+            "Software Engineering Best Practices"
+        )
+    
+    @property
+    def interests(self) -> frozenset[str]:
+        """Personal interests (immutable)."""
+        return frozenset({
+            "Building scalable solutions",
+            "Automating repetitive tasks",
+            "Open source contribution",
+            "Problem solving",
+            "Learning new technologies"
+        })
+    
+    @property
+    def philosophy(self) -> dict[str, str]:
+        """Core beliefs."""
+        return {
+            'mindset': "Stay curious, stay hungry",
+            'code': "Clean code that speaks for itself",
+            'learning': "Learn by doing, fail fast, iterate"
+        }
+    
+    def code(self) -> None:
+        """What I do best."""
+        while True:
+            think()
+            design()
+            implement()
+            optimize()
+            deploy()
+            iterate()
+    
+    def __repr__(self) -> str:
+        return f"<Developer '{self.alias}' | {self.experience} years experience>"
+```
+
 ## Skills
 
 ### Programming Languages
