@@ -36,8 +36,3 @@ Greetings! I'm Ueslei Paim (AKA UesleiDev), a seasoned developer hailing from Br
 [![Libraries and Frameworks-Light](https://skillicons.dev/icons?i=svelte,jest,react,vue,vite,nuxtjs,nextjs,webpack,tailwind,solidjs,threejs&perline=4&theme=light#gh-light-mode-only)](https://skillicons.dev/icons#gh-light-mode-only)
 
 [![Libraries and Frameworks-Dark](https://skillicons.dev/icons?i=svelte,jest,react,vue,vite,nuxtjs,nextjs,webpack,tailwind,solidjs,threejs&perline=4&theme=dark#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
-
----
-
-[![UesleiDev's Github Stats-Light](https://github-readme-stats.vercel.app/api?username=uesleibros&card_width=1300&show_icons=true&hide_title=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![UesleiDev's Github Stats-Dark](https://github-readme-stats.vercel.app/api?username=uesleibros&card_width=1300&show_icons=true&hide_title=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
