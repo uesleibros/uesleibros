@@ -71,7 +71,7 @@ class UesleiPaim:
     
     @property
     def age(self) -> int:
-        """His age."""
+        """My age."""
         return datetime.now().year - self._birth_year
     
     @property
