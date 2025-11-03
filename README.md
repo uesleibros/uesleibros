@@ -133,8 +133,8 @@ class UesleiPaim:
 
 ### Markup/Other Languages
 
-[![Extra Languages-Light](https://skillicons.dev/icons?i=html,css,sass,md,latex&perline=4&theme=light#gh-light-mode-only)](https://skillicons.dev/icons#gh-light-mode-only)
-[![Extra Languages-Dark](https://skillicons.dev/icons?i=html,css,sass,md,latex&perline=4&theme=dark#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
+[![Extra Languages-Light](https://skillicons.dev/icons?i=html,css,md,latex&perline=4&theme=light#gh-light-mode-only)](https://skillicons.dev/icons#gh-light-mode-only)
+[![Extra Languages-Dark](https://skillicons.dev/icons?i=html,css,md,latex&perline=4&theme=dark#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
 
 ### Databases, Cloud Services and ORMs
 
@@ -145,8 +145,8 @@ class UesleiPaim:
 
 #### Collaboration
 
-[![Tools Collaboration-Light](https://skillicons.dev/icons?i=git,github,obsidian,notion,figma&perline=4&theme=light#gh-light-mode-only)](https://skillicons.dev/icons#gh-light-mode-only)
-[![Tools Collaboration-Dark](https://skillicons.dev/icons?i=git,github,obsidian,notion,figma&perline=4&theme=dark#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
+[![Tools Collaboration-Light](https://skillicons.dev/icons?i=git,github,obsidian,notion&perline=4&theme=light#gh-light-mode-only)](https://skillicons.dev/icons#gh-light-mode-only)
+[![Tools Collaboration-Dark](https://skillicons.dev/icons?i=git,github,obsidian,notion&perline=4&theme=dark#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
 
 #### In-Production
 
@@ -155,6 +155,6 @@ class UesleiPaim:
 
 #### Libraries/Frameworks
 
-[![Libraries and Frameworks-Light](https://skillicons.dev/icons?i=svelte,jest,react,vue,vite,nuxtjs,nextjs,webpack,tailwind,solidjs,threejs&perline=4&theme=light#gh-light-mode-only)](https://skillicons.dev/icons#gh-light-mode-only)
+[![Libraries and Frameworks-Light](https://skillicons.dev/icons?i=svelte,jest,react,htmx,vue,vite,nuxtjs,nextjs,webpack,tailwind,solidjs,threejs&perline=4&theme=light#gh-light-mode-only)](https://skillicons.dev/icons#gh-light-mode-only)
 
-[![Libraries and Frameworks-Dark](https://skillicons.dev/icons?i=svelte,jest,react,vue,vite,nuxtjs,nextjs,webpack,tailwind,solidjs,threejs&perline=4&theme=dark#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
+[![Libraries and Frameworks-Dark](https://skillicons.dev/icons?i=svelte,jest,react,htmx,vue,vite,nuxtjs,nextjs,webpack,tailwind,solidjs,threejs&perline=4&theme=dark#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
