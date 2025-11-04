@@ -105,9 +105,9 @@ class UesleiPaim:
     def philosophy(self) -> dict[str, str]:
         """Core beliefs."""
         return {
-            'mindset': "Stay curious, stay hungry",
-            'code': "Clean code that speaks for itself",
-            'learning': "Learn by doing, fail fast, iterate"
+            "mindset": "Stay curious, stay hungry",
+            "code": "Clean code that speaks for itself",
+            "learning": "Learn by doing, fail fast, iterate"
         }
     
     def code(self) -> None:
