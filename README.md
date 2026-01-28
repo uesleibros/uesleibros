@@ -57,13 +57,11 @@ class UesleiPaim:
     """
     The Developer Himself.
     """
-    # Immutable attributes
     name: Final[str] = field(default="Ueslei Paim")
     alias: Final[str] = field(default="UesleiDev")
     location: Final[str] = field(default="Brazil 🇧🇷")
     education: str = field(default="Computer Science Student")
     
-    # Private attributes
     _birth_year: int = field(default=2007, init=False, repr=False)
     _started_coding: int = field(default=2017, init=False, repr=False)
     _mindset: Mindset = field(default_factory=Mindset.default, init=False)
@@ -92,7 +90,7 @@ class UesleiPaim:
     
     @property
     def interests(self) -> frozenset[str]:
-        """Personal interests (immutable)."""
+        """Personal interests."""
         return frozenset({
             "Building scalable solutions",
             "Automating repetitive tasks",
