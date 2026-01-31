@@ -36,13 +36,12 @@ import threading
 
 @runtime_checkable
 class IDeveloper(Protocol):
-    """Developer interface."""
     name: str
     location: str
     def code(self) -> None: ...
 
 class Mindset(IntFlag):
-    """Developer mindset."""
+    """My Mindset."""
     CURIOUS = auto()
     PERSISTENT = auto()
     CREATIVE = auto()
@@ -55,7 +54,7 @@ class Mindset(IntFlag):
 @dataclass(slots=True)
 class UesleiPaim:
     """
-    The Developer Himself.
+    Me.
     """
     name: Final[str] = field(default="Ueslei Paim")
     alias: Final[str] = field(default="UesleiDev")
@@ -126,13 +125,13 @@ class UesleiPaim:
 
 ### Programming Languages
 
-[![Programming Languages-Light](https://skillicons.dev/icons?i=c,javascript,typescript,java,php,lua,python,bash&perline=4&theme=light#gh-light-mode-only)](https://skillicons.dev/icons#gh-light-mode-only)
-[![Programming Languages-Dark](https://skillicons.dev/icons?i=c,javascript,typescript,java,php,lua,python,bash&perline=4&theme=dark#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
+[![Programming Languages-Light](https://skillicons.dev/icons?i=c,javascript,typescript,haxe,php,lua,python,bash&perline=4&theme=light#gh-light-mode-only)](https://skillicons.dev/icons#gh-light-mode-only)
+[![Programming Languages-Dark](https://skillicons.dev/icons?i=c,javascript,typescript,haxe,php,lua,python,bash&perline=4&theme=dark#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
 
-### Markup/Other Languages
+### Other Non-Programming Languages
 
-[![Extra Languages-Light](https://skillicons.dev/icons?i=html,css,md,latex&perline=4&theme=light#gh-light-mode-only)](https://skillicons.dev/icons#gh-light-mode-only)
-[![Extra Languages-Dark](https://skillicons.dev/icons?i=html,css,md,latex&perline=4&theme=dark#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
+[![Extra Languages-Light](https://skillicons.dev/icons?i=docker,html,css,sass,less,md,latex&perline=4&theme=light#gh-light-mode-only)](https://skillicons.dev/icons#gh-light-mode-only)
+[![Extra Languages-Dark](https://skillicons.dev/icons?i=docker,html,css,sass,less,md,latex&perline=4&theme=dark#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
 
 ### Databases, Cloud Services and ORMs
 
@@ -146,13 +145,8 @@ class UesleiPaim:
 [![Tools Collaboration-Light](https://skillicons.dev/icons?i=git,github,obsidian,notion&perline=4&theme=light#gh-light-mode-only)](https://skillicons.dev/icons#gh-light-mode-only)
 [![Tools Collaboration-Dark](https://skillicons.dev/icons?i=git,github,obsidian,notion&perline=4&theme=dark#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
 
-#### In-Production
-
-[![Tools for Development-Light](https://skillicons.dev/icons?i=docker,nginx,graphql,cmake&perline=4&theme=light#gh-light-mode-only)](https://skillicons.dev/icons#gh-light-mode-only)
-[![Tools for Development-Dark](https://skillicons.dev/icons?i=docker,nginx,graphql,cmake&perline=4&theme=dark#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
-
 #### Libraries/Frameworks
 
-[![Libraries and Frameworks-Light](https://skillicons.dev/icons?i=svelte,jest,react,htmx,vue,vite,nuxtjs,nextjs,webpack,tailwind,solidjs,threejs&perline=4&theme=light#gh-light-mode-only)](https://skillicons.dev/icons#gh-light-mode-only)
+[![Libraries and Frameworks-Light](https://skillicons.dev/icons?i=svelte,jest,jquery,react,htmx,vue,vite,nuxtjs,nextjs,webpack,tailwind,solidjs,threejs&perline=4&theme=light#gh-light-mode-only)](https://skillicons.dev/icons#gh-light-mode-only)
 
-[![Libraries and Frameworks-Dark](https://skillicons.dev/icons?i=svelte,jest,react,htmx,vue,vite,nuxtjs,nextjs,webpack,tailwind,solidjs,threejs&perline=4&theme=dark#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
+[![Libraries and Frameworks-Dark](https://skillicons.dev/icons?i=svelte,jest,jquery,react,htmx,vue,vite,nuxtjs,nextjs,webpack,tailwind,solidjs,threejs&perline=4&theme=dark#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
