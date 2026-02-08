@@ -1,21 +1,19 @@
 <div align="center">
   
-# Hi there, I'm Ueslei Paim
+# Hey! I'm Ueslei Paim 👋
 
-### Software Engineer | Computer Science Student | Full-Stack Developer
+**`Full-Stack Developer | Computer Science Student | Problem Solver`**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uesleipaim/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uesleibros@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uesleibros@gmail.com) \
+[![GitHub followers](https://img.shields.io/github/followers/uesleibros?style=for-the-badge&logo=github)](https://github.com/uesleibros)
+[![Github views](https://komarev.com/ghpvc/?username=uesleibros&style=for-the-badge&color=blue)](https://github.com/uesleibros)
 
 </div>
 
 ## About me
 
-Greetings! I'm **Ueslei Paim** (aka **UesleiDev**), a passionate software engineer and Computer Science student based in Brazil 🇧🇷.
-
-I specialize in **architecting scalable solutions** and **building robust applications** that solve real-world problems. My expertise spans across **full-stack development**, **system design**, and **automation engineering**. 
-
-With an insatiable curiosity for emerging technologies, I'm constantly exploring new frameworks, design patterns, and best practices to deliver high-quality, maintainable code. I believe in writing **clean code**, following **SOLID principles**, and leveraging **modern development practices**.
+I'm a **Computer Science student** and **Full-Stack Developer** from Brazil, passionate about creating efficient solutions and exploring new technologies. With **7+ years of programming experience**, I focus on writing clean, scalable code that makes a difference.
 
 ### Current Focus
 - Pursuing Bachelor's degree in **Computer Science**
@@ -27,126 +25,30 @@ With an insatiable curiosity for emerging technologies, I'm constantly exploring
 ### Read me like a code
 
 ```py
-from __future__ import annotations
-from typing import Final, Protocol, runtime_checkable
-from dataclasses import dataclass, field
-from datetime import datetime
-from enum import IntFlag, auto
-import threading
+class Developer:
+    def __init__(self):
+        self.name = "Ueslei Paim"
+        self.role = "Full-Stack Developer"
+        self.location = "Brazil 🇧🇷"
+        self.languages = ["pt-BR", "en-US"]
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together.")
 
-@runtime_checkable
-class IDeveloper(Protocol):
-    name: str
-    location: str
-    def code(self) -> None: ...
-
-class Mindset(IntFlag):
-    """My Mindset."""
-    CURIOUS = auto()
-    PERSISTENT = auto()
-    CREATIVE = auto()
-    ANALYTICAL = auto()
-    
-    @classmethod
-    def default(cls) -> Mindset:
-        return cls.CURIOUS | cls.PERSISTENT | cls.CREATIVE | cls.ANALYTICAL
-
-@dataclass(slots=True)
-class UesleiPaim:
-    """
-    Me.
-    """
-    name: Final[str] = field(default="Ueslei Paim")
-    alias: Final[str] = field(default="UesleiDev")
-    location: Final[str] = field(default="Brazil 🇧🇷")
-    education: str = field(default="Computer Science Student")
-    
-    _birth_year: int = field(default=2007, init=False, repr=False)
-    _started_coding: int = field(default=2017, init=False, repr=False)
-    _mindset: Mindset = field(default_factory=Mindset.default, init=False)
-    _lock: threading.Lock = field(default_factory=threading.Lock, init=False, repr=False)
-    
-    @property
-    def age(self) -> int:
-        """My age."""
-        return datetime.now().year - self._birth_year
-    
-    @property
-    def experience(self) -> int:
-        """Years of coding experience."""
-        return datetime.now().year - self._started_coding
-    
-    @property
-    def currently_learning(self) -> tuple[str, ...]:
-        """Current focus areas."""
-        return (
-            "Algorithms & Data Structures",
-            "System Design & Architecture",
-            "Low-level Optimization",
-            "Cloud Computing",
-            "Software Engineering Best Practices"
-        )
-    
-    @property
-    def interests(self) -> frozenset[str]:
-        """Personal interests."""
-        return frozenset({
-            "Building scalable solutions",
-            "Automating repetitive tasks",
-            "Open source contribution",
-            "Problem solving",
-            "Learning new technologies"
-        })
-    
-    @property
-    def philosophy(self) -> dict[str, str]:
-        """Core beliefs."""
-        return {
-            "mindset": "Stay curious, stay hungry",
-            "code": "Clean code that speaks for itself",
-            "learning": "Learn by doing, fail fast, iterate"
-        }
-    
-    def code(self) -> None:
-        """What I do best."""
-        while True:
-            think()
-            design()
-            implement()
-            optimize()
-            deploy()
-            iterate()
-    
-    def __repr__(self) -> str:
-        return f"<Developer '{self.alias}' | {self.experience} years experience>"
+me = Developer()
+me.say_hi()
 ```
 
-## Skills
+## Tech Stack
 
-### Programming Languages
-
-[![Programming Languages-Light](https://skillicons.dev/icons?i=c,javascript,typescript,haxe,php,lua,python,bash&perline=4&theme=light#gh-light-mode-only)](https://skillicons.dev/icons#gh-light-mode-only)
-[![Programming Languages-Dark](https://skillicons.dev/icons?i=c,javascript,typescript,haxe,php,lua,python,bash&perline=4&theme=dark#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
-
-### Other Non-Programming Languages
-
-[![Extra Languages-Light](https://skillicons.dev/icons?i=docker,html,css,sass,less,md,latex&perline=4&theme=light#gh-light-mode-only)](https://skillicons.dev/icons#gh-light-mode-only)
-[![Extra Languages-Dark](https://skillicons.dev/icons?i=docker,html,css,sass,less,md,latex&perline=4&theme=dark#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
-
-### Databases, Cloud Services and ORMs
-
-[![Databases/Cloud-Light](https://skillicons.dev/icons?i=mongodb,prisma,sqlite,supabase,firebase,googlecloud,mysql,postgresql&perline=4&theme=light#gh-light-mode-only)](https://skillicons.dev/icons#gh-light-mode-only)
-[![Databases/Cloud-Dark](https://skillicons.dev/icons?i=mongodb,prisma,sqlite,supabase,firebase,googlecloud,mysql,postgresql&perline=4&theme=dark#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
-
-### Tools
-
-#### Collaboration
-
-[![Tools Collaboration-Light](https://skillicons.dev/icons?i=git,github,obsidian,notion&perline=4&theme=light#gh-light-mode-only)](https://skillicons.dev/icons#gh-light-mode-only)
-[![Tools Collaboration-Dark](https://skillicons.dev/icons?i=git,github,obsidian,notion&perline=4&theme=dark#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
-
-#### Libraries/Frameworks
-
-[![Libraries and Frameworks-Light](https://skillicons.dev/icons?i=svelte,jest,jquery,react,htmx,vue,vite,nuxtjs,nextjs,webpack,tailwind,solidjs,threejs&perline=4&theme=light#gh-light-mode-only)](https://skillicons.dev/icons#gh-light-mode-only)
-
-[![Libraries and Frameworks-Dark](https://skillicons.dev/icons?i=svelte,jest,jquery,react,htmx,vue,vite,nuxtjs,nextjs,webpack,tailwind,solidjs,threejs&perline=4&theme=dark#gh-dark-mode-only)](https://skillicons.dev/icons#gh-dark-mode-only)
+| **Category**        | **Technologies** |
+|:-------------------:|------------------|
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white) ![Haxe](https://img.shields.io/badge/-Haxe-EA8220?style=flat-square&logo=haxe&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white) ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white) ![SolidJS](https://img.shields.io/badge/-SolidJS-2C4F7C?style=flat-square&logo=solid&logoColor=white) ![HTMX](https://img.shields.io/badge/-HTMX-3366CC?style=flat-square&logo=htmx&logoColor=white) ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white) ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white) |
+| **Styling** | ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white) ![Less](https://img.shields.io/badge/-Less-1D365D?style=flat-square&logo=less&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| **Build Tools** | ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black) |
+| **Testing** | ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white) |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) |
+| **Cloud & BaaS** | ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
+| **Productivity** | ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white) ![Obsidian](https://img.shields.io/badge/-Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white) ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white) |
