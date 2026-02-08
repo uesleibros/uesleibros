@@ -13,7 +13,7 @@
 
 ## About me
 
-I'm a **Computer Science student** and **Full-Stack Developer** from Brazil, passionate about creating efficient solutions and exploring new technologies. With **7+ years of programming experience**, I focus on writing clean, scalable code that makes a difference.
+I'm a **Computer Science student** and **Full-Stack Developer** from Brazil, passionate about creating efficient solutions and exploring new technologies. With **5+ years of programming experience**, I focus on writing clean, scalable code that makes a difference.
 
 ### Current Focus
 - Pursuing Bachelor's degree in **Computer Science**
