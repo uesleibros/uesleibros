@@ -1,14 +1,3 @@
-<div align="center">
-  
-# Ueslei Paim
-
-**`Full-Stack Developer | Computer Science Student`**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uesleipaim/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uesleibros@gmail.com)
-
-</div>
-
 ## About me
 
 I'm a Computer Science student and Full-Stack Developer from Brazil.
