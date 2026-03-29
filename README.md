@@ -11,6 +11,11 @@ Currently exploring:
 - Microservices and System Design
 - Open-Source collaboration
 
+### Connections
+
+- [Linkedin](https://www.linkedin.com/in/uesleipaim)
+- [Email](mailto:uesleibros@gmail.com)
+
 ## Engineering Interests
 
 - Software Architecture
