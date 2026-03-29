@@ -1,28 +1,12 @@
-## About me
+## About
 
-I'm a Computer Science student and Full-Stack Developer from Brazil.
+Computer Science student and Full-Stack Developer based in Brazil.
 
-I focus on building scalable systems, clean architectures, and developer-friendly solutions.  
-My interests include backend engineering, distributed systems, and software design.
+Focused on building scalable systems with clean architecture. Interested in backend engineering, distributed systems, and software design.
 
-Currently exploring:
-- Software Architecture and Design Patterns
-- Cloud-Native applications
-- Microservices and System Design
-- Open-Source collaboration
+Currently exploring Software Architecture, Design Patterns, Cloud-Native Development, and Microservices.
 
-### Connections
-
-- [Linkedin](https://www.linkedin.com/in/uesleipaim)
-- [Email](mailto:uesleibros@gmail.com)
-
-## Engineering Interests
-
-- Software Architecture
-- System Design
-- Developer Experience
-- Distributed Systems
-- Performance Optimization
+Reach me on [LinkedIn](https://www.linkedin.com/in/uesleipaim) or via [email](mailto:uesleibros@gmail.com).
 
 ## Tech Stack
 
